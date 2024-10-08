@@ -27,19 +27,18 @@ This project is a React application that consumes the public **Rick and Morty** 
 - Node.js installed on your machine.
 - **npm** or **yarn** package manager.
 
-### Installation
+### Installation Steps
 
 Follow the steps below to set up the project on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/miniblog.git
-   cd miniblog
+   git clone https://github.com/RafaelLPort/Trabalho_Web_Front2_Part2
    ```
 
 2. **Install dependencies**:
    ```bash
-   npm install
+   npm install axios styled-components
    ```
 
 3. **Start the application**:
@@ -47,21 +46,7 @@ Follow the steps below to set up the project on your machine:
    npm run start
    ```
 
-### Installation Steps
-
-1. Clone the repository:
-    git clone https://github.com/your-username/rick-and-morty-app.git
-
-2. Navigate to the project directory:
-    cd rick-and-morty-app
-
-3. Install the dependencies:
-    npm install
-
-4. Start the development server:
-    npm run start
-
-The project will be available at `http://localhost:3000`.
+   The project will be available at `http://localhost:3000`.
 
 ## Usage
 

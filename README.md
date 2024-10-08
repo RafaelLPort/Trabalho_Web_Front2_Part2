@@ -27,6 +27,26 @@ This project is a React application that consumes the public **Rick and Morty** 
 - Node.js installed on your machine.
 - **npm** or **yarn** package manager.
 
+### Installation
+
+Follow the steps below to set up the project on your machine:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/miniblog.git
+   cd miniblog
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Start the application**:
+   ```bash
+   npm run start
+   ```
+
 ### Installation Steps
 
 1. Clone the repository:

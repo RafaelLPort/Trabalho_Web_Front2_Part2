@@ -1,4 +1,4 @@
-# Rick and Morty Characters - React App
+# Rick and Morty API
 
 ![Logo do Projeto](src/assets/imgs/ImagemBanner.png)
 

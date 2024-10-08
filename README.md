@@ -1,5 +1,7 @@
 # Rick and Morty Characters - React App
 
+![Logo do Projeto](src/assets/logo.png)
+
 ## Project
 
 This project is a React application that consumes the public **Rick and Morty** API to display characters from the show in the form of cards. The page allows filtering characters by name and exploring an infinite list, which loads more characters as the user scrolls down.
